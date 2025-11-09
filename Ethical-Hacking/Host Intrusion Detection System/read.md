@@ -1,6 +1,4 @@
-Here is a simple README file for your Lightweight Host Intrusion Detection System (HIDS) Python project:
 
-```
 # Lightweight Host Intrusion Detection System (HIDS)
 
 ## Project Description
@@ -54,4 +52,3 @@ max_connections = 10
 
 ## License
 This project is for educational purposes and comes with no warranty.
-```
