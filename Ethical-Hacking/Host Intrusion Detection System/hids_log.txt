@@ -1,0 +1,91 @@
+[2025-11-09 14:02:16] === HIDS Monitoring Started ===
+[2025-11-09 14:02:16] Error reading example.txt: [Errno 2] No such file or directory: 'example.txt'
+[2025-11-09 14:02:16] Cannot access example.txt. It may be missing or locked.
+[2025-11-09 14:02:16] Error reading important_config.conf: [Errno 2] No such file or directory: 'important_config.conf'
+[2025-11-09 14:02:16] Cannot access important_config.conf. It may be missing or locked.
+[2025-11-09 14:02:16] ALERT: Suspicious processes detected:
+ - PID: 8352 Name: AcrobatNotificationClient.exe
+ - PID: 14192 Name: FileSyncHelper.exe
+ - PID: 15424 Name: PhoneExperienceHost.exe
+ - PID: 16632 Name: AdobeCollabSync.exe
+ - PID: 18332 Name: AdobeCollabSync.exe
+ - PID: 21572 Name: cncmd.exe
+ - PID: 22048 Name: StartMenuExperienceHost.exe
+[2025-11-09 14:02:21] ALERT: Open ports detected: 3306
+[2025-11-09 14:02:21] --- Sleeping ---
+
+[2025-11-09 14:02:41] Error reading example.txt: [Errno 2] No such file or directory: 'example.txt'
+[2025-11-09 14:02:41] Cannot access example.txt. It may be missing or locked.
+[2025-11-09 14:02:41] Error reading important_config.conf: [Errno 2] No such file or directory: 'important_config.conf'
+[2025-11-09 14:02:41] Cannot access important_config.conf. It may be missing or locked.
+[2025-11-09 14:02:41] ALERT: Suspicious processes detected:
+ - PID: 8352 Name: AcrobatNotificationClient.exe
+ - PID: 14192 Name: FileSyncHelper.exe
+ - PID: 15424 Name: PhoneExperienceHost.exe
+ - PID: 16632 Name: AdobeCollabSync.exe
+ - PID: 18332 Name: AdobeCollabSync.exe
+ - PID: 21572 Name: cncmd.exe
+ - PID: 22048 Name: StartMenuExperienceHost.exe
+[2025-11-09 14:02:46] ALERT: Open ports detected: 3306
+[2025-11-09 14:02:46] --- Sleeping ---
+
+[2025-11-09 14:03:06] Error reading example.txt: [Errno 2] No such file or directory: 'example.txt'
+[2025-11-09 14:03:06] Cannot access example.txt. It may be missing or locked.
+[2025-11-09 14:03:06] Error reading important_config.conf: [Errno 2] No such file or directory: 'important_config.conf'
+[2025-11-09 14:03:06] Cannot access important_config.conf. It may be missing or locked.
+[2025-11-09 14:03:06] ALERT: Suspicious processes detected:
+ - PID: 8352 Name: AcrobatNotificationClient.exe
+ - PID: 14192 Name: FileSyncHelper.exe
+ - PID: 15424 Name: PhoneExperienceHost.exe
+ - PID: 16632 Name: AdobeCollabSync.exe
+ - PID: 18332 Name: AdobeCollabSync.exe
+ - PID: 21572 Name: cncmd.exe
+ - PID: 22048 Name: StartMenuExperienceHost.exe
+[2025-11-09 14:03:12] ALERT: Open ports detected: 3306
+[2025-11-09 14:03:12] --- Sleeping ---
+
+[2025-11-09 14:03:32] Error reading example.txt: [Errno 2] No such file or directory: 'example.txt'
+[2025-11-09 14:03:32] Cannot access example.txt. It may be missing or locked.
+[2025-11-09 14:03:32] Error reading important_config.conf: [Errno 2] No such file or directory: 'important_config.conf'
+[2025-11-09 14:03:32] Cannot access important_config.conf. It may be missing or locked.
+[2025-11-09 14:03:32] ALERT: Suspicious processes detected:
+ - PID: 8352 Name: AcrobatNotificationClient.exe
+ - PID: 14192 Name: FileSyncHelper.exe
+ - PID: 15424 Name: PhoneExperienceHost.exe
+ - PID: 16632 Name: AdobeCollabSync.exe
+ - PID: 18332 Name: AdobeCollabSync.exe
+ - PID: 21572 Name: cncmd.exe
+ - PID: 22048 Name: StartMenuExperienceHost.exe
+[2025-11-09 14:03:37] ALERT: Open ports detected: 3306
+[2025-11-09 14:03:37] --- Sleeping ---
+
+[2025-11-09 14:03:57] Error reading example.txt: [Errno 2] No such file or directory: 'example.txt'
+[2025-11-09 14:03:57] Cannot access example.txt. It may be missing or locked.
+[2025-11-09 14:03:57] Error reading important_config.conf: [Errno 2] No such file or directory: 'important_config.conf'
+[2025-11-09 14:03:57] Cannot access important_config.conf. It may be missing or locked.
+[2025-11-09 14:03:57] ALERT: Suspicious processes detected:
+ - PID: 8352 Name: AcrobatNotificationClient.exe
+ - PID: 14192 Name: FileSyncHelper.exe
+ - PID: 15424 Name: PhoneExperienceHost.exe
+ - PID: 16632 Name: AdobeCollabSync.exe
+ - PID: 18332 Name: AdobeCollabSync.exe
+ - PID: 21572 Name: cncmd.exe
+ - PID: 22048 Name: StartMenuExperienceHost.exe
+[2025-11-09 14:04:02] ALERT: Open ports detected: 3306
+[2025-11-09 14:04:02] --- Sleeping ---
+
+[2025-11-09 14:04:22] Error reading example.txt: [Errno 2] No such file or directory: 'example.txt'
+[2025-11-09 14:04:22] Cannot access example.txt. It may be missing or locked.
+[2025-11-09 14:04:22] Error reading important_config.conf: [Errno 2] No such file or directory: 'important_config.conf'
+[2025-11-09 14:04:22] Cannot access important_config.conf. It may be missing or locked.
+[2025-11-09 14:04:22] ALERT: Suspicious processes detected:
+ - PID: 8352 Name: AcrobatNotificationClient.exe
+ - PID: 14192 Name: FileSyncHelper.exe
+ - PID: 15424 Name: PhoneExperienceHost.exe
+ - PID: 16632 Name: AdobeCollabSync.exe
+ - PID: 18332 Name: AdobeCollabSync.exe
+ - PID: 21572 Name: cncmd.exe
+ - PID: 22048 Name: StartMenuExperienceHost.exe
+[2025-11-09 14:04:27] ALERT: Open ports detected: 3306
+[2025-11-09 14:04:27] --- Sleeping ---
+
