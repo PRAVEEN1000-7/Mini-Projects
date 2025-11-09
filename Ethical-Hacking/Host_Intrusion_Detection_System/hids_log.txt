@@ -89,3 +89,17 @@
 [2025-11-09 14:04:27] ALERT: Open ports detected: 3306
 [2025-11-09 14:04:27] --- Sleeping ---
 
+[2025-11-09 14:19:36] === HIDS Monitoring Started ===
+[2025-11-09 14:19:36] Error reading example.txt: [Errno 2] No such file or directory: 'example.txt'
+[2025-11-09 14:19:36] Cannot access example.txt. It may be missing or locked.
+[2025-11-09 14:19:36] Error reading important_config.conf: [Errno 2] No such file or directory: 'important_config.conf'
+[2025-11-09 14:19:36] Cannot access important_config.conf. It may be missing or locked.
+[2025-11-09 14:19:36] ALERT: Suspicious processes detected:
+ - PID: 8352 Name: AcrobatNotificationClient.exe
+ - PID: 14192 Name: FileSyncHelper.exe
+ - PID: 15424 Name: PhoneExperienceHost.exe
+ - PID: 16632 Name: AdobeCollabSync.exe
+ - PID: 18332 Name: AdobeCollabSync.exe
+ - PID: 21572 Name: cncmd.exe
+ - PID: 22048 Name: StartMenuExperienceHost.exe
+[2025-11-09 14:19:36] Failed to send email alert: [Errno 11001] getaddrinfo failed
